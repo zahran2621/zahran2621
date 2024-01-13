@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zahran2621
-- 👀 I’m interested in software
-- 🌱 I’m currently learning frond end and back end
+- 👋 Hi, I’m @zahranazhar
+- 👀 I’m interested in software enginering
+- 🌱 I’m currently learning web frond end and back end for now
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:zahranpkp@gmail.com
 
